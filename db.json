@@ -1411,6 +1411,16 @@
       "repair": false
     },
     {
+      "shop": 10,
+      "id": 146,
+      "number": 146,
+      "inventory": "----",
+      "model": "DEX PM3000",
+      "manufacturer": "MEGMEET",
+      "serial": "ZF030048224000006",
+      "repair": false
+    },    
+    {
       "shop": 9,
       "id": 142,
       "number": 142,
